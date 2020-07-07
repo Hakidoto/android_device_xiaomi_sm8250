@@ -88,6 +88,7 @@ ro.vendor.xiaomi.bl.poll=true
 ro.vendor.soft_backlight.enable=true
 ro.vendor.hbm_backlight.enable=true
 vendor.hbm.enable=true
+ro.surface_flinger.support_kernel_idle_timer=true
 
 # Media
 debug.media.video.frc=false
