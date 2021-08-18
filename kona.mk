@@ -349,6 +349,7 @@ PRODUCT_PACKAGES += \
     init.qcom.factory.rc \
     init.qcom.power.rc \
     init.qcom.rc \
+    init.performance_level.rc \
     init.target.rc \
     init.target.wigig.rc \
     ueventd.qcom.rc 
