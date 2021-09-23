@@ -315,7 +315,7 @@ PRODUCT_COPY_FILES += \
  
 # Prebuilt Packages
 PRODUCT_PACKAGES += \
-    GCamGo   
+    GCam
 
 # QMI
 PRODUCT_PACKAGES += \
