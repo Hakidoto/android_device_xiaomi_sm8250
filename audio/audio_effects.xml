@@ -112,8 +112,6 @@
         <effect name="vqe" library="vqe" uuid="64a0f614-7fa4-48b8-b081-d59dc954616f"/>
         <!--DOLBY END-->
     </effects>
-    <postprocess>
-    </postprocess>
     <preprocess>
         <stream type="voice_communication">
             <apply effect="aec"/>
